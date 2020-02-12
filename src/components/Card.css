@@ -1,0 +1,25 @@
+.size{
+    
+    width: 160px;
+    padding: 5px;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,0.5);
+    
+    margin-right: 10px;
+}
+.size > img {
+    width: 100%;
+
+ }
+
+
+h1{
+    font-size: small;
+    margin: 0;
+    padding: 8px;
+}
+
+.book-list {
+    display: flex;
+    align-items: flex-start;
+}
+  
